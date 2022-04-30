@@ -7,7 +7,7 @@
  *    Gnd pin to red wire (External) on the reader
  *    Digital 10 pin to green wire (Internal) on the reader
  *    
- *  Youtube: https://www.youtube.com/channel/UCWN_KT_CAjGZQG5grHldL8w
+ *  Mautoz Tech YouTube Channel: https://www.youtube.com/c/mautoztech
 */
 
 #include <OneWire.h>
